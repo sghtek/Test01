@@ -1,2 +1,3 @@
 !pip install tweepy 
 #This is how we can install python package in IBM watson
+# Refer https://dataplatform.cloud.ibm.com/exchange/public/entry/view/0fc9ace31ddd8a70140584c0ef1ce320
